@@ -262,7 +262,8 @@ border-bottom: 1.5px solid  orange;
     width: 5vw;
     height: 3vh;
     background-color:  rgba(21, 212, 21, 0.539);
-    border-radius: 25%;
+    border-radius: 8%;
+    padding: 0.25rem;
     text-align: center;    
     font-weight: 500;
     font-size: 1em;
@@ -270,6 +271,7 @@ border-bottom: 1.5px solid  orange;
 }
 .container-students ul .more-width{
     width: 12vw;
+    border-radius: 3%;
 }
 /* SECCION PORTAFOLIO*/
 .section-work{
